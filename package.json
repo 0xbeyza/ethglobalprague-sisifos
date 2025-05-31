@@ -1,0 +1,14 @@
+{
+  "name": "ethglobalprague-sisifos",
+  "version": "1.0.0",
+  "description": "gain rewards by swapping cross-chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
