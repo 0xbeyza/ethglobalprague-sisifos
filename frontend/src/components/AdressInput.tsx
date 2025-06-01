@@ -3,31 +3,12 @@ const AddressInput = () => {
     <>
       <div
         style={{
-          margin: "auto",
-          width: "30%",
-          height: "450px",
-          background: "black",
-          border: "1px solid black",
-          borderRadius: "8px",
+          background: "white",
+          height: "40%",
+          borderRadius: "10px",
+          marginBottom: "15PX",
         }}
-      >
-        <div
-          style={{
-            background: "white",
-            height: "200px",
-            margin: "15px",
-            borderRadius: "10px",
-          }}
-        ></div>
-        <div
-          style={{
-            background: "white",
-            height: "200px",
-            margin: "15px",
-            borderRadius: "10px",
-          }}
-        ></div>
-      </div>
+      ></div>
     </>
   );
 };
